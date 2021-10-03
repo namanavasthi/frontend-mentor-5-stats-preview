@@ -20,6 +20,26 @@ module.exports = {
           200: "hsla(0, 0%, 100%, 0.6)",
         },
       },
+      fontSize: {
+        12: "12px",
+        15: "15px",
+        24: "24px",
+        28: "28px",
+        36: "36px",
+      },
+      lineHeight: {
+        25: "25px",
+        29: "29px",
+        32: "32px",
+        44: "44px",
+      },
+      letterSpacing: {
+        0: "0px",
+        1: "1px",
+      },
+      maxWidth: {
+        1110: "1110px",
+      },
     },
   },
   variants: {
